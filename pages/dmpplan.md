@@ -9,7 +9,7 @@ permalink: /dmpplan.html
 
 This is my data management plan for the Oregon Native Art collection.
 
-[This is a link to my metadata application profile.](/objects/Group 2 - MAP.pdf)
+[This is a link to my metadata application profile.](objects/Group 2 - MAP.pdf)
 
 **This text is bold**
 
